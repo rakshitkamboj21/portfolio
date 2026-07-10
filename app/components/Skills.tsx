@@ -5,7 +5,7 @@ import { motion, easeInOut } from "framer-motion";
 const skillGroups = [
   {
     title: "Languages",
-    skills: ["Java", "Python", "C++", "JavaScript"],
+    skills: [ "Python", "C++", "JavaScript"],
   },
   {
     title: "Frontend",
@@ -21,7 +21,7 @@ const skillGroups = [
   },
   {
     title: "AI & APIs",
-    skills: ["Google Gemini API", "AI Integrations", "Prompt Engineering"],
+    skills: ["Google Gemini API", "AI Integrations",],
   },
   {
     title: "Tools & Platforms",

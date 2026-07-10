@@ -13,14 +13,6 @@ const projects = [
     github: "https://github.com/rakshitkamboj21/smart-text-summarizer",
   },
   {
-    title: "AI Career Counselor",
-    description:
-      "An intelligent career guidance system that helps users choose career paths based on skills, interests, and goals.",
-    tech: ["React", "Python", "Gemini API", "MongoDB"],
-    live: "null",
-    github: "null",
-  },
-  {
     title: "FoundrKit",
     description:
       "An all-in-one productivity and AI toolkit designed to help solo founders manage ideas, execution, and growth.",
