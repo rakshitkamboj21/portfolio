@@ -13,11 +13,11 @@ const skillGroups = [
   },
   {
     title: "Backend",
-    skills: ["Node.js", "Express.js", "Flask", "REST APIs"],
+    skills: ["Node.js", "Express.js", "Flask", "REST APIs","FastAPI"],
   },
   {
     title: "Databases",
-    skills: ["MongoDB", "Supabase"],
+    skills: ["MongoDB", "Supabase","PostgreSQL", "SQL"],
   },
   {
     title: "AI & APIs",

@@ -58,7 +58,7 @@ export default function Contact() {
           </a>
 
           <a
-            href="/Updated Resume.pdf"
+            href="/Rakshit_Kamboj_NewResume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="px-8 py-3 rounded-xl border border-gray-700 hover:border-indigo-500 transition text-gray-300"
@@ -67,7 +67,7 @@ export default function Contact() {
           </a>
 
         <a 
-           href="/Updated Resume.pdf"
+           href="/Rakshit_Kamboj_NewResume.pdf"
            download
            className="px-8 py-3 rounded-xl border border-gray-700 hover:border-indigo-500 transition text-gray-300"
         >
