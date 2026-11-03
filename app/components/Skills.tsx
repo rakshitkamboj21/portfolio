@@ -29,7 +29,7 @@ const skillGroups = [
   },
   {
     title: "Core Competencies",
-    skills: ["DSA", "Debugging", "Problem Solving", "Teamwork", "Communication"],
+    skills: ["DSA", "Debugging", "Problem Solving",],
   },
 ];
 

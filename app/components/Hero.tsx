@@ -82,9 +82,8 @@ export default function Hero() {
           </motion.div>
 
           {/* Heading */}
-          <h1 className="text-5xl sm:text-6xl md:text-7xl font-extrabold leading-none tracking-tight">
-            <span className="block text-white">Rakshit</span>
-            <span className="block text-white">Kamboj</span>
+          <h1 className="text-5xl sm:text-5xl md:text-6xl font-extrabold leading-none tracking-tight">
+            <span className="block text-white">Rakshit Kamboj</span>
             <span
               className="block mt-3 text-3xl sm:text-4xl md:text-5xl font-bold"
               style={{
@@ -93,15 +92,15 @@ export default function Hero() {
                 WebkitBackgroundClip: "text",
                 WebkitTextFillColor: "transparent",
                 backgroundClip: "text",
+                
               }}
             >
-              Full-Stack Developer
+            Full-stack developer building AI products
             </span>
           </h1>
 
           <p className="mt-6 text-gray-400 max-w-md text-base leading-relaxed">
-            I build modern web apps, AI-powered systems, and digital products
-            that solve real problems — from idea to deployment.
+            Computer Engineering graduate (2026) looking for my first role as a software engineer or intern. I built FoundrKit, an AI-powered SaaS platform for founders.
           </p>
 
           {/* CTA Buttons */}

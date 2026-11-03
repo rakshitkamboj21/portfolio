@@ -51,10 +51,7 @@ export default function About() {
   </h2>
 
   <p className="mt-6 text-gray-400 leading-relaxed">
-    I’m Rakshit Kamboj, a full-stack developer and problem solver who enjoys building
-    modern web applications and AI-powered products. I’m passionate about
-    turning ideas into real, usable solutions and continuously learning new
-    technologies to improve my craft.
+   I’m a Computer Engineering graduate from Government College of Engineering and Research, Pune (2026). I like building products end to end: the interface, the API, the database and the AI layer. My final-year project, FoundrKit, is a SaaS platform that puts AI tools and startup workflows in one dashboard. I’m now looking for an entry-level software engineering role, in SDE, QA or an internship, where I can ship real features and learn from a good team.
   </p>
 
   <p className="mt-4 text-gray-400 leading-relaxed">
